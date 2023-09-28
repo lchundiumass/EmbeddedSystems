@@ -1,0 +1,43 @@
+Team Suitability: This project very much so suits us because we both have a combined interest in machine learning. Furthermore,
+we are both interested in machine learning in regards to embedded systems. Shawn, is an excellent electrical engineer and I ( Lohith )
+am skilled in software development. Together I believe that we can not only understand the research that has been conducted on the subject. 
+But I believe we can help the community by providing unique and never seen before data sets. We also believe that we have the ability to
+be able to convey the knowledge that we learn throughout this project in the best possible way to our class. Me and shawn both have a 
+tutoring background, and we have worked together on countless projects in the past. We both know each others strengths and weaknesses, and 
+therefore we are organized and efficient. 
+
+
+Motivation: Our main motivation as stated in the paragraph above, is our dire interest towards the subject of machine learning in an 
+embedded environment. 
+
+design goals: 
+- Achieve a semi autonomous data collection system
+- Manage and label collected data.
+- Achieve a few methods for privacy analysis
+
+deliverables:
+• Configure the setup for data collection
+• Identify the type of applications for experiments
+• Design experiments for the subject wearing headset and the person in the scene
+• Manage and label the collected data
+• Perform privacy analysis on the data
+
+system blocks:
+- Data collection system
+- Data Label system
+- Privacy analysis system
+
+hw/sw requirements: Windows Laptop with Universal Windows Platform support, Hololens 2,
+Python, Unity, MRTK
+
+team members responsibilities:
+Shawn: Hardware development focused research and execution with knowledge of software
+Lohith: Software development focused research and execution with knowledge of hardware
+
+project timeline: 2 Months
+
+references:
+* BehaVR: User Identification Based on VR Sensor Data, 2023
+• Personal Identifiability of User Tracking Data During Observation of 360-degree VR Video, 2020
+• Understanding User Identification in Virtual Reality Through Behavioral Biometrics and the Effect
+of Body Normalization, 2021
